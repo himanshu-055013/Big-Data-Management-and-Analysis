@@ -1,7 +1,7 @@
 # Big-Data-Management-and-Analysis
 # Big Data Management and Analytics (BDMA) - PGDM (BDA) 2024-26
 
-This repository contains projects, assignments, and exercises from the Big Data Management and Analytics (BDMA) course, part of the PGDM (BDA) program for the 2024-26 batch at [Your Institution Name - e.g., FSM].
+This repository contains projects, assignments, and exercises from the Big Data Management and Analytics (BDMA) course, part of the PGDM (BDA) program for the 2024-26 batch at FORE School of Management.
 
 **Course Overview:**
 
