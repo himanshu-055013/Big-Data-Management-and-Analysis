@@ -44,7 +44,6 @@ This core course focuses on building practical skills in Big Data Management (BD
 **Instructor:**
 
 * Prof. Amarnath Mitra (amarnath.mitra@fsm.ac.in)
-* Mr. Aditya Dua (adityadua1992@gmail.com)
 
 **Feel free to contribute, ask questions, or provide feedback!**
 
